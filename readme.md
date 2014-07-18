@@ -14,7 +14,7 @@ This theme shows an example of how to connect Styles Font Menu to Options Framew
 * Requires `inc/class-sfm-options-framework-support.php` so that `styles_font_menu` type becomes available.
 * Creates an example option, `example_font_1`.
 
-[inc/class-sfm-options-framework-support.php](https://github.com/stylesplugin/styles-font-menu-with-options-framework/blob/master/options.php)
+[inc/class-sfm-options-framework-support.php](https://github.com/stylesplugin/styles-font-menu-with-options-framework/blob/master/inc/class-sfm-options-framework-support.php)
 
 * Provides magical connections between Options Framework and Styles Font Menu.
 * Enqueues stylesheets for any Google Fonts in your theme settings.
